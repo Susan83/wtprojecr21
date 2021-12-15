@@ -1,0 +1,4 @@
+SUSAN|susan ZANNAT|SUSAN|raihansuan1@gmail.com|0857332852|Block B, Road 7, House no 122,mirpur 12||admin
+SALMA|SALMA|SALMA|raihansusan1@gmail.com|018777777|DHANMONDI|female|admin
+NAZMUL|NAZMUL|NAZMUL|nazmul@gmail.com|016789654|DHANMONDI|male|admin
+susan zannat|susan ZANNAT|XYZ|raihansuan1@gmail.com|0857332852|Block B, Road 7, House no 122,mirpur 12|female|Employee
